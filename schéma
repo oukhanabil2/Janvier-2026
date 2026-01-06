@@ -1,1 +1,24 @@
-
+planning-pwa/
+├── index.html
+├── manifest.json
+├── service-worker.js
+├── style.css
+├── app.js
+├── database.js
+├── excel-import.js
+├── offline-manager.js
+├── lib/
+│   ├── xlsx.full.min.js
+│   └── dexie.min.js
+├── assets/
+│   └── icons/
+│       ├── icon-512.png
+│       ├── icon-384.png
+│       ├── icon-192.png
+│       ├── icon-152.png
+│       ├── icon-144.png
+│       ├── icon-128.png
+│       ├── icon-96.png
+│       ├── icon-72.png
+│       └── favicon.ico
+└── generate-icones.html (optionnel)
